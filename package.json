@@ -1,0 +1,23 @@
+{
+  "name": "adjacent-duplicates-remover",
+  "version": "1.0.0",
+  "description": "remove adjacent duplicates in a string",
+  "main": "answer.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisheckGithongo/adjacent-duplicates-remover.git"
+  },
+  "author": "misheck githongo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisheckGithongo/adjacent-duplicates-remover/issues"
+  },
+  "homepage": "https://github.com/MisheckGithongo/adjacent-duplicates-remover#readme",
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "jasmine": "^3.7.0"
+  }
+}
